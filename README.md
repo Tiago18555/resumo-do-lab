@@ -27,3 +27,28 @@ No contexto da computação em nuvem, é importante entender a diferença entre 
 - **OpEx (Despesas de Operação)** abrange os custos recorrentes associados ao funcionamento e à manutenção dos serviços.
 
 Esse aprendizado sobre os conceitos iniciais de computação em nuvem e os diferentes modelos disponíveis proporciona uma base sólida para compreender as práticas e as estratégias envolvidas na implementação de soluções em Azure, preparando-me para a certificação AZ-900.
+
+### PARTE 2:
+
+### Escalabilidade
+A escalabilidade reforça o conceito já aprendido e refere-se à capacidade de aumentar o poder computacional. Ela pode ser feita de duas maneiras: **vertical**, aumentando os recursos de uma única instância, ou **horizontal**, criando mais subdivisões com divisão de responsabilidade, permitindo a distribuição da carga de trabalho.
+
+### Elasticidade
+A elasticidade é a capacidade de rapidamente expandir a capacidade do servidor em picos de uso repentino, seja de forma manual ou automática.
+
+### Confiabilidade
+A confiabilidade é a capacidade de minimizar problemas de falta de operação, geralmente garantida pela escalabilidade horizontal. Isso significa que, ao aumentar o número de instâncias, podemos manter a operação estável mesmo diante de falhas.
+
+### Previsibilidade
+Os serviços ofertados têm métricas e informações que garantem a confiança em sua adoção, contribuindo para a previsibilidade dos custos e da performance.
+
+### Segurança
+A nuvem oferece acesso a ferramentas de segurança, e é importante que sua implementação seja feita pela empresa para proteger os dados e as aplicações.
+
+### Governança
+A governança está relacionada com monitoramento e auditoria para garantir que a aplicação funcione conforme os requisitos e políticas da empresa, essencial para manter a conformidade e a segurança.
+
+### Gerenciabilidade
+A gerenciabilidade diz respeito à facilidade de gerenciar recursos da nuvem, incluindo a capacidade de monitorar, configurar e otimizar os serviços de forma eficiente.
+
+Boa parte dos conceitos apresentados foram citados na primeira parte, mas agora estão um pouco aprofundados no contexto de listar benefícios do serviço de nuvem.
