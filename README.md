@@ -48,6 +48,24 @@ A nuvem oferece acesso a ferramentas de segurança, e é importante que sua impl
 ### Governança
 A governança está relacionada com monitoramento e auditoria para garantir que a aplicação funcione conforme os requisitos e políticas da empresa, essencial para manter a conformidade e a segurança.
 
+## PARTE 3:
+
+### Tipos de Serviço
+
+- **IaaS (Infrastructure as a Service)**: Relacionado à infraestrutura, é o que mais abordaremos nessa área. Então, estamos falando de máquinas virtuais, servidores, etc.
+  
+- **PaaS (Platform as a Service)**: Relacionado à plataforma, engloba a infraestrutura e adiciona sistemas operacionais e ferramentas para desenvolvedores. Tira um pouco o foco do gerenciamento da infraestrutura e foca no acesso a uma determinada aplicação ou serviço, como um servidor de banco de dados.
+
+- **SaaS (Software as a Service)**: Assim como o PaaS, este modelo engloba IaaS e PaaS, adicionando agora aplicativos hospedados. Geralmente se refere a serviços como o Office 365, onde o uso é sob licença.
+
+Então eu poderia resumir em:
+- **IaaS**: Eu quero uma infraestrutura para eu poder utilizar para a minha aplicação; quero gerenciar tudo.
+- **PaaS**: Apenas quero fazer uma determinada aplicação, mas não quero me importar com como será a infra.
+- **SaaS**: Eu apenas quero utilizar uma aplicação já existente.
+
+### Modelo de Responsabilidade Compartilhada
+O modelo de responsabilidade compartilhada é basicamente uma tabela que indica quais responsabilidades (da Microsoft, do cliente, compartilhadas) estão atreladas a quem de acordo com o tipo de serviço (SaaS, PaaS e IaaS). Isso é crucial para entender onde a empresa deve se concentrar na segurança e na gestão dos serviços.
+
 ### Gerenciabilidade
 A gerenciabilidade diz respeito à facilidade de gerenciar recursos da nuvem, incluindo a capacidade de monitorar, configurar e otimizar os serviços de forma eficiente.
 
